@@ -1,0 +1,7 @@
+#Wed Dec 16 21:31:23 EAT 2020
+base.0=/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/dex/release/out/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/dex/release/out/classes2.dex

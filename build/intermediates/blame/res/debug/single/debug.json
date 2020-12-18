@@ -1,0 +1,1222 @@
+[
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_call.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/call.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_launcher.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_online_icon.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/online_icon.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_bookmark.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/bookmark.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_bookmarked.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/bookmarked.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_default_image.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/default_image.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_trending.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/trending.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_back.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/back.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_profile.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/profile.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_home_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_edittext_shape_two.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/edittext_shape_two.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_bookmarked.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/bookmarked.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/font_lato.ttf.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/font/lato.ttf"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_password.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/password.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tick.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/tick.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_photo.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/photo.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_edit.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/edit.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_favorite_active.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_favorite_active.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_bookmarked.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/bookmarked.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_chatblo.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/chatblo.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_profile.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/profile.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_send.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_bookmark.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/bookmark.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_add_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_add_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_comment_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_comment_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_edit.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/edit.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_back.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_mail.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/mail.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/font_open_sans.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/font/open_sans.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_photo.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/photo.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_btn_rounded_red.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/btn_rounded_red.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_privacy.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/privacy.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_ic_launcher_foreground.jpg.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/ic_launcher_foreground.jpg"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_logowhite.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/logowhite.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_confirm2.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/confirm2.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_send.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_send.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_bookmark.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/bookmark.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_person_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_person_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_back_btn_two.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/back_btn_two.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_rounded_rectangle_received.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/rounded_rectangle_received.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_login_as_guest.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_login_as_guest.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_rounded_rectangle_sent.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/rounded_rectangle_sent.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_portal.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/portal.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_person_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_person_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_favorite_default.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_favorite_default.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_favorite_default.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_favorite_default.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_all_users.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_all_users.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_share_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_share_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_bell.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/bell.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_bookmarked.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/bookmarked.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_tick.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/tick.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_nameavatar.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/nameavatar.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_search_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_search_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_back_btn_two.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/back_btn_two.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_privacy.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/privacy.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_btn_rounded_blue.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/btn_rounded_blue.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_add_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_add_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_support.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/support.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_nameavatar.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/nameavatar.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_comment_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_comment_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_home_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_favorite_default.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_favorite_default.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_password.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/password.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_logowhite.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/logowhite.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_profile_placeholder.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/profile_placeholder.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_delete_accent.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_delete_accent.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_trending.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/trending.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_share_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_share_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_photo.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/photo.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_privacy.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/privacy.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_person_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_person_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_comment_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_comment_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_back_btn_two.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/back_btn_two.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_send.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_update_info.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/update_info.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_privacy.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/privacy.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_bookmarked.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/bookmarked.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_profile.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_photo.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/photo.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_profile1.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_profile1.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_fragment_friends.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/fragment_friends.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_users_single_layout.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/users_single_layout.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_tick.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/tick.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_bookmark.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/bookmark.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_edit.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/edit.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_photo.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/photo.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_share_white.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_share_white.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_notifications_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_notifications_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_password.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/password.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_tick.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/tick.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_notifications.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/notifications.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_default_avatar.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/default_avatar.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_mail.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/mail.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_back.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_nameavatar.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/nameavatar.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_setup.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_setup.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_back.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/back.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_bell.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/bell.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_delete_accent.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_delete_accent.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_send.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_bookmarked.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/bookmarked.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_password.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/password.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_favorite_default.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_favorite_default.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_favorite_active.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_favorite_active.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_chat.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_add_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_add_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_photo.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/photo.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_notifications.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/notifications.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_logowhite.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/logowhite.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_password.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/password.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_notifications_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_notifications_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_notifications_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_notifications_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_mmmm.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/mmmm.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_delete_accent.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_delete_accent.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_comment_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_comment_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_search_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_search_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_favorite_default.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_favorite_default.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_favorite_default.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_favorite_default.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_privacy.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/privacy.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_trending.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/trending.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_add_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_add_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_nameavatar.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/nameavatar.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_bell.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/bell.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_trending.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/trending.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_call.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/call.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_image_placeholder.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/image_placeholder.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_edit.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/edit.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_delete_accent.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_delete_accent.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_profile.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_noaccount_background.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/noaccount_background.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_comment_black.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_comment_black.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_btn_rounded_green.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/btn_rounded_green.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_share_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_share_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_bell.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/bell.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_bell.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/bell.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_newproject.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/newproject.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_privacy.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/privacy.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_bell.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/bell.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_fragment_request.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/fragment_request.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_fragment_account.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_search_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_search_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_share_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_share_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_home_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_password.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/password.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/anim_zoom_in.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/anim/zoom_in.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_call.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/call.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_reset.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_reset.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_search_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_delete_accent.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_delete_accent.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_notifications.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/notifications.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_favorite_active.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_favorite_active.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_favorite_active.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_favorite_active.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_app_bar_layout.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/app_bar_layout.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_comment_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_comment_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_search_white.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_white.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_bookmark.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/bookmark.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_logowhite.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/logowhite.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_default_profile.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/default_profile.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_search.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_favorite_active.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_favorite_active.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_photo.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/photo.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_trending.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/trending.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_back_btn_two.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/back_btn_two.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_login_btn_pressed.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/login_btn_pressed.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_send.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_call.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/call.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_favorite_default.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_favorite_default.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_entertainment.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/entertainment.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_mail.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/mail.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_person_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_person_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_bookmarked.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/bookmarked.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_call.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/call.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_history.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/history.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_nameavatar.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/nameavatar.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_mail.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/mail.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/menu_post_details_menu.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/menu/post_details_menu.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_call.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/call.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_notifications_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_notifications_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/font_lato_light.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/font/lato_light.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_nameavatar.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/nameavatar.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_home_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_back_btn_two.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/back_btn_two.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_password.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/password.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_mail.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/mail.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_profile.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/profile.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_fragment_chats.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/fragment_chats.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_bell.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/bell.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_edit.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/edit.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_status.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_status.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_logowhite.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/logowhite.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_back_btn_two.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/back_btn_two.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_comments.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_comments.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_mail.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/mail.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/xml_searchable.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_post_details.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_post_details.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_privacy.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/privacy.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_add_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_profile.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/profile.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_edittextshape.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/edittextshape.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-mdpi_notifications.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-mdpi/notifications.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_delete_accent.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_delete_accent.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_logout_button.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/logout_button.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_contact_us.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_contact_us.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_logowhite.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/logowhite.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_logo.jpg.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/logo.jpg"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_share_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_share_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_search_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_search_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_comment_list_item.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/comment_list_item.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/anim_zoom_out.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/anim/zoom_out.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_comment_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_comment_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notifications_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_notifications_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_contactus.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/contactus.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_delete_accent.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_delete_accent.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_mail.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/mail.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_post_list_item.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/post_list_item.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_profile.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/profile.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_send.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_send.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_person_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_person_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_person_black.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_person_black.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_logowhite.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/logowhite.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_home_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_profile2.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_profile2.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_trending.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/trending.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_back.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/back.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_tick.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/tick.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_ic_add_black_24dp.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/ic_add_black_24dp.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_notifications_black.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notifications_black.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_notifications.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/notifications.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_notifications_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_notifications_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_chat_custom_bar.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/chat_custom_bar.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_trending.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/trending.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_favorite_active.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_favorite_active.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_fragment_trending.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/fragment_trending.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_commment.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/commment.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_backc.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/backc.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_tick.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/tick.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_tick.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/tick.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_notifications.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/notifications.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_add_white.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add_white.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_favorite_active.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_favorite_active.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_ic_send_black_24dp.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/ic_send_black_24dp.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_edit.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/edit.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_background.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_send.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_call.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/call.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_notifications.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/notifications.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/menu_side_menu.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/menu/side_menu.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_nameavatar.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/nameavatar.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_home_black.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home_black.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_back.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/back.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_search_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_search_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_message_single_layout.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/message_single_layout.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_share_white.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_share_white.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_new_post.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_new_post.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_login_btn.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/login_btn.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_back.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_home_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_home_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_person_black.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_person_black.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/layout_side_menu_header.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/layout/side_menu_header.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable_feedback.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/src/main/res/drawable/feedback.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_back_btn_two.xml.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/back_btn_two.xml"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_bookmark.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxhdpi/bookmark.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-hdpi_bookmark.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-hdpi/bookmark.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-ldpi_profile.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-ldpi/profile.png"
+    },
+    {
+        "merged": "/home/jupiter/AndroidStudioProjects/signup2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_edit.png.flat",
+        "source": "/home/jupiter/AndroidStudioProjects/signup2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/edit.png"
+    }
+]

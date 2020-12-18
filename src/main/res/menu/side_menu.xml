@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ShowIn="navigation_view"
+    >
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black"
+            android:title="@string/nav_home_text"
+            />
+        <item android:id="@+id/nav_trending"
+            android:icon="@drawable/trending"
+            android:title="@string/trending" />
+        <item android:id="@+id/nav_chats"
+            android:icon="@drawable/mmmm"
+            android:title="@string/chats" />
+        <item android:id="@+id/nav_friends"
+            android:icon="@drawable/portal"
+            android:title="@string/friends" />
+        <item android:id="@+id/nav_requests"
+            android:icon="@drawable/entertainment"
+            android:title="@string/requests" />
+        
+    </group>
+</menu>
